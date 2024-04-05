@@ -6,6 +6,8 @@ This project is a CRUD API built using Golang. The API is designed to manage a c
 
 The Movies CRUD API provides endpoints to perform CRUD operations on movies. It is served on `localhost:8080` using the Gorilla Mux router, an external library for routing in Go.
 
+![image](https://github.com/vhsenna/go-movies-crud-api/assets/34524951/b0264f88-ce16-46fb-aa88-34e41f666849)
+
 ## Routes
 
 The API defines the following routes:
